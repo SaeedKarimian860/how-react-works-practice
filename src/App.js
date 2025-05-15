@@ -64,6 +64,7 @@ function Tab({ num, activeTab, onClick }) {
   );
 }
 
+
 function TabContent({ item }) {
   const [showDetails, setShowDetails] = useState(true);
   const [likes, setLikes] = useState(0);
