@@ -119,6 +119,7 @@ function TabContent({ item }) {
   );
 }
 
+
 function DifferentContent() {
   return (
     <div className="tab-content">
